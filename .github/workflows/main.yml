@@ -6,6 +6,7 @@ on:
       - main
       - staging
       - dev
+      - sritam123-odissaking
 
 jobs:
   terraform:
